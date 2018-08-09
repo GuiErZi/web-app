@@ -1,0 +1,18 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "web-app-quanzhan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fjz",
+  "license": "ISC",
+  "dependencies": {
+    "fullpage.js": "^3.0.2",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.16.5"
+  }
+}
